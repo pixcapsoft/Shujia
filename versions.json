@@ -2,10 +2,11 @@
     "latest_version": "1.0.0",
     "build_number": 1,
     "download_url": "https://github.com/pixcapsoft/Shujia/releases/download/v1.1.0/app-release.apk",
-    "is_mandatory": false,
+    "is_mandatory": true,
     "description": "Critical security fixes and new modern UI components. This update is required to ensure data integrity."
 
 }
+
 
 
 
