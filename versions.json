@@ -1,7 +1,8 @@
 {
-    "latest_version": "1.0.0",
+    "latest_version": "1.1.0",
     "build_number": 1,
     "download_url": "https://github.com/your-username/your-repo/releases/download/v1.1.0/app-release.apk",
     "is_mandatory": true,
     "description": "Critical security fixes and new modern UI components. This update is required to ensure data integrity."
+
 }
